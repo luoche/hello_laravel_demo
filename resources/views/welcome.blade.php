@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel duoduo</div>
+                <div class="title">Laravel duoduo.</div>
             </div>
         </div>
     </body>
